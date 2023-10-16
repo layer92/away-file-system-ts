@@ -1,7 +1,7 @@
 import { FileNameBox } from "./FileNameBox";
 import { FolderPathBox } from "./FolderPathBox";
 import { LocalFileSystem } from "./LocalFileSystem";
-import { OnException } from "away-away/OnException";
+import { OnException } from "away-core/OnException";
 
 /** Allows you to cache data in files in a local folder. */
 export class LocalFolderFileDataCache<Data>{

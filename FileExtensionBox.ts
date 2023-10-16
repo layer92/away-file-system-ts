@@ -1,6 +1,6 @@
-import { Box } from "away-away/Box";
-import { Expect } from "away-away/Expect";
-import { OnException } from "away-away/OnException";
+import { Box } from "away-core/Box";
+import { Expect } from "away-core/Expect";
+import { OnException } from "away-core/OnException";
 import { FileFormatBox } from "./FileFormatBox";
 
 /** values such as: ".mp3", ".jpg", ".tar.gz" etc... */

@@ -1,5 +1,5 @@
 import { FileSystemPathBox } from "./FileSystemPathBox";
-import { Expect } from "away-away/Expect";
+import { Expect } from "away-core/Expect";
 
 
 export type FileSystemPathSanityExpecter = (path:FileSystemPathBox)=>void;

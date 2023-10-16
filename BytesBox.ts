@@ -1,4 +1,4 @@
-import { Box } from "away-away/Box";
+import { Box } from "away-core/Box";
 
 export class BytesBox extends Box<number>{
 

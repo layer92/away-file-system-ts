@@ -1,10 +1,10 @@
-import { OnException } from "away-away/OnException";
-import { Expect } from "away-away/Expect";
+import { OnException } from "away-core/OnException";
+import { Expect } from "away-core/Expect";
 import { FileNameBox } from "./FileNameBox";
 import { FilePathBox } from "./FilePathBox";
 import { FileSystemPathBox } from "./FileSystemPathBox";
 import { FolderNameBox } from "./FolderNameBox";
-import { Box } from "away-away/Box";
+import { Box } from "away-core/Box";
 
 /**
  * According to wikipedia, if it's on-disk, it's called a "directory" and the graphic representation is a "folder", but we're going to call it a "folder" anyway.
